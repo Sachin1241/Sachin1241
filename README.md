@@ -1,4 +1,5 @@
 नमस्ते 🙏, मेरा नाम सचिन सिंह तोमर है|
+
 Hi 👋, I'm Sachin Singh Tomar.
 
 <!--
@@ -7,11 +8,11 @@ Hi 👋, I'm Sachin Singh Tomar.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  Intern Zidio Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about   https://sachin124.carrd.co
-- 📫 How to reach me: 
+- 💬 Ask me about  MERN, WebSockets, WebRTC, Real-Time Applications, .
+- 📫 How to reach me st722716@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
