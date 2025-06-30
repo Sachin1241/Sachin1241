@@ -7,9 +7,6 @@ Hi 👋, I'm Sachin Singh Tomar.
 
 
 
-![Uploading Screenshot 2025-06-30 140652.png…]()
-
-
 <!--
 **Sachin1241/Sachin1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
