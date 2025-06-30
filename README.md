@@ -1,4 +1,5 @@
-![9464173](https://github.com/user-attachments/assets/66d514ef-0e6a-424a-a32d-8c2199bb8e55)
+![Guide_to_Full_Stack_Development_000eb0b2d0](https://github.com/user-attachments/assets/471cd471-1d9b-4875-9e9c-55514873e11c)
+
 
 
 
